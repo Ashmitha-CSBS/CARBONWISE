@@ -1,0 +1,1 @@
+console.log("CarbonWise Loaded Successfully");
